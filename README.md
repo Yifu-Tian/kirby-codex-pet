@@ -1,6 +1,6 @@
 # Kirby Codex Pet
 
-A cheerful pink Kirby-style pet for Codex.
+A cheerful pink Kirby for Codex.
 
 ## Files
 
