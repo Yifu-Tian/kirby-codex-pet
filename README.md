@@ -2,6 +2,8 @@
 
 A cheerful pink Kirby for Codex.
 
+You can also try it in https://codex-pets.net/#/pets/kirby.
+
 ## Files
 
 - `pet.json`
