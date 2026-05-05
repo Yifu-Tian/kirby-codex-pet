@@ -2,7 +2,7 @@
 
 A cheerful pink Kirby for Codex.
 
-You can also try it in https://codex-pets.net/#/pets/kirby.
+You can also try it in [codex-pets](https://codex-pets.net/#/pets/kirby).
 
 ## Files
 
