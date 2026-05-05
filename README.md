@@ -1,6 +1,6 @@
 # Kirby Codex Pet
 
-A cheerful round pale pink digital pet for Codex.
+A cheerful pink Kirby-style pet for Codex.
 
 ## Files
 
@@ -9,7 +9,7 @@ A cheerful round pale pink digital pet for Codex.
 
 ## Install
 
-Copy this folder to your Codex pets directory:
+Copy this folder into your Codex pets directory:
 
 ```text
 %USERPROFILE%\.codex\pets\kirby
